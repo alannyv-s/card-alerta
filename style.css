@@ -1,0 +1,56 @@
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #EAF4F8;
+    margin: 0;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.card-alerta {
+    background-color: white;
+    width: 300px;
+    padding: 32px;
+    border-radius: 20px;
+  
+
+}
+
+.nivel-risco {
+    display: flex;
+    background-color: #bd1010;
+    color: #ffffff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.titulo {
+    font-size: 40px;
+    color: #263238;
+    text-align: center;
+    
+}
+
+.mensagem {
+    font-family: ;
+    font-size: 20px;
+    color: #0E2030;
+    line-height: 1.4;
+}
+
+.botao-acao {
+    display: inline-block;
+    background-color: #0F4C5C;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 12px;
+    font-weight: "semibold";
+    text-align: center;
+    font-size: 20px;
+
+}
