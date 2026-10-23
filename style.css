@@ -1,3 +1,9 @@
+
+
+
+
+
+
 body {
     font-family: "Inter", sans-serif;
     background-color: #EAF4F8;
@@ -9,10 +15,10 @@ body {
 }
 
 .card-alerta {
-    background-color: white;
+    background-color: #ffffff;
     width: 300px;
     padding: 32px;
-    border-radius: 20px;
+    border-radius: 16px;
 
   
 
@@ -20,10 +26,10 @@ body {
 
 .nivel-risco {
     display: flex;
-    background-color: #bd1010;
+    background-color: #c62828;
     color: #ffffff;
     padding: 8px 12px;
-    border-radius: 20px;
+    border-radius: 16px;
     font-size: 28px;
     font-weight: bold;
     justify-content: center;
@@ -31,7 +37,7 @@ body {
 
 .titulo {
     font-size: 40px;
-    color: #263238;
+    color: #0E2030;
     text-align: center;
     
 }
