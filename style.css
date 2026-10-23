@@ -13,6 +13,7 @@ body {
     width: 300px;
     padding: 32px;
     border-radius: 20px;
+
   
 
 }
@@ -36,7 +37,6 @@ body {
 }
 
 .mensagem {
-    font-family: ;
     font-size: 20px;
     color: #0E2030;
     line-height: 1.4;
@@ -53,6 +53,6 @@ body {
     font-size: 20px;
     width: fit-content;
     margin: 15px auto;
-    text-align: center;
+    
 
 }
